@@ -38,9 +38,5 @@ int main()
 	{
 		printf("F");
 	}
-	else
-	{
-		printf("");
-	}
 	return 0;	
 }
